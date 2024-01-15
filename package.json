@@ -1,0 +1,35 @@
+{
+  "name": "earth-tones-harmony",
+  "displayName": "EarthTones Harmony",
+  "description": "Elevate your coding experience with Nightfall Espresso – a rich blend of navy, warm browns, and vintage accents inspired by the serenity of night, earthy warmth, and the aromatic essence of coffee.",
+  "version": "0.0.1",
+  "publisher": "QuantumScripter",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/hemant-dev-8/earth-tones-harmony"
+  },
+  "keywords": [
+    "Earth",
+    "Warm",
+    "Nature",
+    "Fall",
+    "Dark",
+    "Vintage",
+    "Night"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EarthTones Harmony",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EarthTones Harmony-color-theme.json"
+      }
+    ]
+  }
+}
